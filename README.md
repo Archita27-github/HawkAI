@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b890617e-b741-4f7c-8030-cb67aebe1a25)# Hawk AI: Gesture-Based Food Ordering System
+# Hawk AI: Gesture-Based Food Ordering System
 This repository hosts Hawk AI, a cutting-edge food ordering system that leverages AI, machine learning, and deep learning to recognize hand gestures, streamlining the ordering process in restaurants. The web application is fully developed with a user-friendly interface and efficient ordering logic.
 
 ## Symbolism and Name
@@ -18,3 +18,4 @@ Below are snapshots of the food ordering application, showcasing its interactive
 
 ### Main Menu with various food options with the image representing camera frame to be integrated. 
 This page also has a aesthetic doodle image with a slide in and slide out animation with a three color linear gradient to make the interface more engaging.
+![image](https://github.com/user-attachments/assets/b890617e-b741-4f7c-8030-cb67aebe1a25)
