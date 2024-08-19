@@ -1,0 +1,41 @@
+# Handle text files with automatic line endings conversion
+* text=auto
+
+# Ensure consistent line endings for HTML, CSS, and JavaScript files
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+
+# Handle Node.js and Express files
+*.env text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.sql text eol=lf
+
+# Handle binary files (e.g., images)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+# Handle PostgreSQL dump files
+*.dump binary
+
+# Handle lock files
+package-lock.json text eol=lf
+yarn.lock text eol=lf
+
+# Ignore generated files
+*.log text=auto
+node_modules/ -text
+dist/ -text
+coverage/ -text
