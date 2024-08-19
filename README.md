@@ -25,7 +25,8 @@ This page also has a aesthetic doodle image with a slide in and slide out animat
 
 ### The Cart displaying the food items selected by storing it in a temporary database in database server
 You can also remove an item if you change your mind at this phase.
-![image](https://github.com/user-attachments/assets/de63a7d6-103e-4511-aa50-f11f0311dca1)
+![image](https://github.com/user-attachments/assets/b82517db-936b-4aaa-8450-1280c9cfe721)
+
 
 ### You can also choose any ingredient that you are allergic to or you don't wish to be added in your food before placing your final order
 ![image](https://github.com/user-attachments/assets/0cb4ab8a-7915-42aa-97fe-527968f88b49)
