@@ -1,0 +1,53 @@
+.logo_sec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo_name {
+  color: rgba(255, 255, 255, 0.819);
+  font-size: 35px;
+}
+
+.logo_sec:hover {
+  cursor: pointer;
+}
+
+.header {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(48, 25, 55);
+}
+
+.logo {
+  width: 90px;
+  height: 80px;
+  opacity: 0.9;
+}
+
+.list {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  font-size: 20px;
+  gap: 25px;
+  margin-top: 15px;
+  margin-right: 50px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  color: yellowgreen;
+  text-decoration: underline;
+  cursor: pointer;
+}
